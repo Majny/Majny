@@ -17,4 +17,4 @@ Co-founder & CTO at [Zoplio](https://zoplio.com).
 **Elsewhere**
 
 [kubadvorak.com](https://kubadvorak.com) · [Writing (Substack)](https://kubadvorak.substack.com) ·
-[hi@kubadvorak.com](mailto:hi@kubadvorak.com)
+[X](https://x.com/jakubdvorak_ai) · [hi@kubadvorak.com](mailto:hi@kubadvorak.com)
