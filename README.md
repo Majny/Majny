@@ -15,7 +15,7 @@
   - the public API: keys, rate limits, usage quotas and signed webhooks;
   - both SDKs (Node/TypeScript and Python);
   - the hosted MCP server, so AI agents can book meetings.
-- **Kreedl Intelligence** (private; Software Engineer at Kreedl, Jan–Jun 2026): I designed and shipped an internal Gemini pipeline for pitch-deck analysis in investment screening. Python, FastAPI, MongoDB, Docker.
+- **Kreedl Intelligence** (private; AI Engineer at Kreedl, Jan–Jun 2026): I designed and shipped an internal Gemini pipeline for pitch-deck analysis in investment screening. Python, FastAPI, MongoDB, Docker.
 - **Systems programming at MFF UK** (my Bachelor's specialization; course code, not public):
   - a RISC-V (Sv32) teaching kernel in C, built in a team of three: heap, scheduling, synchronization, virtual memory, user-mode processes;
   - a C-subset compiler to LLVM IR (flex, bison, IRBuilder);
