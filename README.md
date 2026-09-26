@@ -9,7 +9,7 @@
 - **[bitcoin-multisig-wallet](https://github.com/Majny/bitcoin-multisig-wallet)**: my Bachelor's thesis ([100 pages on DSpace](https://dspace.cuni.cz/handle/20.500.11956/210821)), graded Excellent. An Android M-of-N multisig wallet in which every signature is made on a Trezor via Trezor Connect; the backend coordinates the cosigners but never holds key material and never signs.
   - Hand-written BIP-174 (PSBT) encoding and parsing, the multisig P2WSH script and the bech32 encoder.
   - 7 Kotlin/Ktor services on PostgreSQL under Docker Compose.
-  - 116 backend test methods in GitHub Actions.
+  - 123 backend test methods in GitHub Actions.
   - A 2-of-3 transaction verified on testnet.
 - **Zoplio developer API** (source private, surface public): [API docs](https://zoplio.com/docs) · [`@zoplio/sdk-js`](https://www.npmjs.com/package/@zoplio/sdk-js) · [`zoplio` on PyPI](https://pypi.org/project/zoplio/) · [`@zoplio/claude-tool`](https://www.npmjs.com/package/@zoplio/claude-tool). Zoplio is an AI assistant that books meetings over WhatsApp, Slack and email; it is in early access, and keys go out in waves. I wrote all of its backend, including:
   - the public API: keys, rate limits, usage quotas and signed webhooks;
